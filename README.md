@@ -1,4 +1,4 @@
-# 💻 Internship Webpage (Week 2)
+# 💻 Internship Webpage
 
 This project was built during Week 2 of my **Web Development Internship at VaultofCodes**, focusing on UI design and layout improvements.
 
